@@ -1,2 +1,2 @@
-# SVM_Classifiocation_Implimentation
-SVM_Classifiocation_Implimentation
+# SVM_Classification_Implementation
+SVM_Classifiocation_Implementation
